@@ -1,6 +1,7 @@
 https://gemini.google.com を開くだけの electron アプリ
 
-<img width="1266" height="793" alt="image" src="https://github.com/user-attachments/assets/36b78d81-2e83-41e6-846d-5b5d48195b8a" />
+<img width="1266" height="766" alt="image" src="https://github.com/user-attachments/assets/8c1018d0-2a7c-4d94-940c-96f958ef5efd" />
+
 一度ログインすると、再起動しても最初から chatgpt と話せる画面に行く様になります。
 
 # 使い方
