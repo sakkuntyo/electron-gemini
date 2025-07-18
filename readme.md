@@ -5,9 +5,9 @@ https://gemini.google.com を開くだけの electron アプリ
 一度ログインすると、再起動しても最初から chatgpt と話せる画面に行く様になります。
 
 # 使い方
-以下からダウンロードして展開し、 exe を実行します
+以下からzipをダウンロードして展開し、 exe を実行します
 
-https://github.com/sakkuntyo/electron-chatgpt/releases/download/1.0.0/chatgpt-client-1.0.0-win32-x64.zip
+[https://github.com/sakkuntyo/electron-chatgpt/releases/download/1.0.0/chatgpt-client-1.0.0-win32-x64.zip](https://github.com/sakkuntyo/electron-gemini/releases)
 
 # 概要
 - chatgpt に聞いて作成
@@ -20,4 +20,4 @@ https://github.com/sakkuntyo/electron-chatgpt/releases/download/1.0.0/chatgpt-cl
 - 動作確認
   - ```npx electron .```
 - パッケージング
-  - ```npx electron-packager . chatgpt-client --platform=win32 --arch=x64 --icon=icon.ico --overwrite```
+  - ```npx electron-packager . chatgpt-gemini-1.0.0 --platform=win32 --arch=x64 --icon=icon.ico --overwrite```
